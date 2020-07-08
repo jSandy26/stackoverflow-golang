@@ -1,0 +1,5 @@
+/static/**
+.env
+*.db
+.vscode
+__debug_bin
